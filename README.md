@@ -15,6 +15,10 @@ code:https://github.com/NELSONZHAO/zhihu/blob/master/batch_normalization_discuss
 
 blog:https://r2rt.com/implementing-batch-normalization-in-tensorflow.html
 
+### 1.2 IN(Instance Normalization)
+
+只正则化图片的w和h,常用于风格迁移
+
 
 ## 2.标准化(standardization)
 
